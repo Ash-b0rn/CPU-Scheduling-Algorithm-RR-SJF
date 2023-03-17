@@ -1,5 +1,5 @@
 # CPU-Scheduling-Algorithm-RR-SJF(Preemptive and Non-preemptive)
-This project contains Java implementations of two CPU scheduling algorithms: Shortest-Job-First (SJF) , both preemptive and non-preemptive, and Round Robin. All of the algorithms can be found in the Main file.
+This project contains Java implementations of two CPU scheduling algorithms: Shortest-Job-First (SJF) , both preemptive and non-preemptive, and Round Robin. All of the algorithms can be found in the [Main](https://github.com/Ash-b0rn/CPU-Scheduling-Algorithm-RR-SJF/blob/main/src/com/Marwan1/Main.java) file.
 
 ## SJF Preemptive
 The SRTF algorithm is a preemptive scheduling algorithm that schedules processes based on the remaining burst time of each process.
